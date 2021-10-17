@@ -4,7 +4,7 @@ var bodyParser = require('body-parser')
 
 
 const app = express()
-const port = 8080
+const port = 80
 
 // create application/json parser
 var jsonParser = bodyParser.json()
